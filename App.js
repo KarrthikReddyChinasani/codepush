@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     right: 0,
   },
   body: {
-    backgroundColor: Colors.white,
+    backgroundColor: "#000000",
   },
   sectionContainer: {
     marginTop: 32,
